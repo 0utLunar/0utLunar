@@ -56,3 +56,11 @@ _🔹 User interface for the virtual learning environment of Centro Paula Souza.
 Sempre buscando aprender e contribuir para projetos inovadores! 🚀
 
 _Always looking to learn and contribute to innovative projects! 🚀_
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
