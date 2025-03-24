@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Cirino! — _Hello, I'm Lucas Cirino!_
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e inovação. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na FATEC Americana e busco oportunidades para aplicar minhas habilidades no desenvolvimento **Back-End** e em **Sistemas de Informação**.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e inovação. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na FATEC Americana e busco oportunidades para aplicar minhas habilidades no desenvolvimento **Back-End** e em **Analise e Desenvolvimento de Sistemas**.
 
 _I'm a developer in training, passionate about technology and innovation. I'm currently studying **Systems Analysis and Development** at FATEC Americana and looking for opportunities to apply my skills in **Back-End Development** and **Information Systems**._
 
