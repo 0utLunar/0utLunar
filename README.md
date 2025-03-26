@@ -8,20 +8,7 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 
 ## 🚀 Tecnologias — _Technologies_
 
-### _Front-end_
-[![My Front-end Skills](https://skillicons.dev/icons?i=html,css,js&perline=13)](#)
-
-### _Back-end_
-[![My Back-end Skills](https://skillicons.dev/icons?i=java,php,python&perline=13)](#)
-
-### _Banco de Dados — Databases_
-[![My Database Skills](https://skillicons.dev/icons?i=mysql&perline=13)](#)
-
-### _Ferramentas — Tools_
-[![My Tools](https://skillicons.dev/icons?i=vscode,git,github&perline=13)](#)
-
-### _Estudando — Currently Learning_
-[![Studying](https://skillicons.dev/icons?i=java,spring&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github&perline=13)](#)
 
 ---
 
