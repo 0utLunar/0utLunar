@@ -8,7 +8,7 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 
 ## 🚀 Tecnologias — _Technologies_
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github,react,node,mongodb&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github,react,nodejs,mongodb&perline=13)](#)
 
 ---
 
