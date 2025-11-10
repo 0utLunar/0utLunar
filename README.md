@@ -11,7 +11,7 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github&perline=13)](#)
 
 ## 🧠 Aprendendo Atualmente — _Currently Learning_
-[![Currently Learning](https://skillicons.dev/icons?i=react,nodejs,mongodb,npm&perline=13)](#)
+[![Currently Learning](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,npm&perline=13)](#)
 ---
 
 ## 🌐 Contato — _Contact_
