@@ -8,25 +8,7 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 
 ## 🚀 Tecnologias — _Technologies_
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github&perline=13)](#)
-
----
-
-## 📌 Projetos — _Projects_
-
-### [Parkvision](https://github.com/0utLunar/Parkvision)
-🔹 Sistema de monitoramento de estacionamentos via câmeras de segurança.
-- Tecnologias: Python, HTML, CSS, PHP, MySQL.
-
-_🔹 Parking monitoring system using security cameras._
-- _Technologies: Python, HTML, CSS, PHP, MySQL._
-
-### UI AVA EADTeC
-🔹 Interface de usuário para o ambiente de aprendizado virtual do Centro Paula Souza.
-- Tecnologias: HTML, CSS, JavaScript.
-
-_🔹 User interface for the virtual learning environment of Centro Paula Souza._
-- _Technologies: HTML, CSS, JavaScript._
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,vscode,git,github,react,node,mongodb&perline=13)](#)
 
 ---
 
