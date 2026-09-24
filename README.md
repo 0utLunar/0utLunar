@@ -9,19 +9,19 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 ## 🚀 Tecnologias — _Technologies_
 
 ### 🎨 Frontend — _Frontend_
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6)](#)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js&perline=6)](#)
 
 ### ⚙️ Backend — _Backend_
 [![Backend](https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,python,php&perline=6)](#)
 
 ### 🗄️ Banco de Dados — _Databases_
-[![Databases](https://skillicons.dev/icons?i=mysql,firebase&perline=2)](#)
+[![Databases](https://skillicons.dev/icons?i=mysql,firebase,postgree&perline=2)](#)
 
 ### 🛠️ Ferramentas — _Tools_
-[![Tools](https://skillicons.dev/icons?i=git,github&perline=2)](#)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode&perline=2)](#)
 
 ## 🧠 Aprendendo Atualmente — _Currently Learning_
-[![Currently Learning](https://skillicons.dev/icons?i=spring,docker,mongodb&perline=3)](#)
+[![Currently Learning](https://skillicons.dev/icons?i=spring,docker,postman,ts,react,tailwind&perline=3)](#)
 
 ---
 
