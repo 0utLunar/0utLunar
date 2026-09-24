@@ -18,10 +18,10 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 [![Databases](https://skillicons.dev/icons?i=mysql,firebase,postgres&perline=6)](#)
 
 ### 🛠️ Ferramentas — _Tools_
-[![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6)](#)
+[![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,docker&perline=6)](#)
 
 ## 🧠 Aprendendo Atualmente — _Currently Learning_
-[![Currently Learning](https://skillicons.dev/icons?i=spring,docker,postman,ts,react,tailwind&perline=6)](#)
+[![Currently Learning](https://skillicons.dev/icons?i=spring,hibernate,postman,ts,react,tailwind&perline=6)](#)
 
 ---
 
