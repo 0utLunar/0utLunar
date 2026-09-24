@@ -42,8 +42,8 @@ Seleção dos meus projetos favoritos — _A selection of my favorite projects_
 
 ## 📊 GitHub Stats — _GitHub Stats_
 
-<img src="https://github-readme-stats.vercel.app/api?username=0utLunar&show_icons=true&theme=github_dark&locale=pt-br&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0utLunar&layout=compact&theme=github_dark&locale=pt-br&hide_title=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0utLunar&theme=github_dark" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0utLunar&theme=github_dark" alt="GitHub Languages"/>
 
 ---
 
