@@ -15,7 +15,7 @@ _I'm a developer in training, passionate about technology and innovation. I'm cu
 [![Backend](https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,python,php&perline=6)](#)
 
 ### 🗄️ Banco de Dados — _Databases_
-[![Databases](https://skillicons.dev/icons?i=mysql,firebase,postgree&perline=6)](#)
+[![Databases](https://skillicons.dev/icons?i=mysql,firebase,postgres&perline=6)](#)
 
 ### 🛠️ Ferramentas — _Tools_
 [![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode&perline=6)](#)
