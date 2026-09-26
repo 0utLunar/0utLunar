@@ -43,7 +43,7 @@ Os projetos que mais quero mostrar — _The projects I most want to showcase_
 | [**poo-conta-do-bar**](https://github.com/0utLunar/poo-conta-do-bar) | Conta do cliente de um bar com POO — _Bar customer bill using OOP_ | Java |
 | [**poo-contribuintes**](https://github.com/0utLunar/poo-contribuintes) | Calculadora de imposto de renda com OO e listas — _Income tax calculator using OOP and lists_ | Java |
 | [**poo-combate**](https://github.com/0utLunar/poo-combate) | Simulação de combate em turnos entre dois campeões — _Turn-based combat simulation between two champions_ | Java |
-| [**encapsulamento-banco**](https://github.com/0utLunar/encapsulamento-banco) | Conta bancária no console com encapsulamento — _Console bank account with encapsulation_ | Java |
+| [**encapsulacao-banco**](https://github.com/0utLunar/encapsulacao-banco) | Conta bancária no console com encapsulamento — _Console bank account with encapsulation_ | Java |
 | [**pedra-papel-tesoura**](https://github.com/0utLunar/pedra-papel-tesoura) | Jogo clássico pedra-papel-tesoura — _Classic rock-paper-scissors game_ | JavaScript |
 
 </details>
