@@ -53,7 +53,7 @@ Os projetos que mais quero mostrar — _The projects I most want to showcase_
 ## 🛠️ Tecnologias — _Technologies_
 
 **🎨 Frontend — _Frontend_**
-![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=8)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=8)
 
 **⚙️ Backend — _Backend_**
 ![Backend](https://skillicons.dev/icons?i=java,spring,kotlin,cs,dotnet,python,php&perline=8)
@@ -62,10 +62,10 @@ Os projetos que mais quero mostrar — _The projects I most want to showcase_
 ![Databases](https://skillicons.dev/icons?i=postgresql,mysql,firebase,hibernate,mongodb&perline=8)
 
 **🛠️ Ferramentas — _Tools_**
-![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,docker,maven&perline=8)
+![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,docker,postman,maven,figma&perline=8)
 
 **🧠 Aprendendo Atualmente — _Currently Learning_**
-![Currently Learning](https://skillicons.dev/icons?i=postman,vercel,figma&perline=8)
+![Currently Learning](https://skillicons.dev/icons?i=ts,react,tailwind&perline=8)
 
 ---
 
